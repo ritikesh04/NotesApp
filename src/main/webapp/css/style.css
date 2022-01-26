@@ -1,0 +1,14 @@
+img{
+	
+	 padding : 5px;
+	 width : 1530px;
+	 height : 600px;
+	 background-size: cover;
+	 border : 3px solid black;
+}
+
+.purple{
+	
+	background: #673ab7;
+}
+
